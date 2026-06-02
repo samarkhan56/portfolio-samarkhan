@@ -1,16 +1,108 @@
-# React + Vite
+# 🚀 Samar Khan Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A premium personal portfolio website built with **React**, **Vite**, and **Tailwind CSS** to showcase my skills, projects, and frontend development journey.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Coming Soon
 
-## React Compiler
+## 📋 About The Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This portfolio was designed and developed to present my work, skills, and projects in a modern and professional way. The website features smooth animations, responsive layouts, project filtering, dark/light mode support, and a clean user experience.
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Responsive Design
+* Dark / Light Mode
+* Smooth Animations
+* Interactive User Interface
+* Project Showcase Section
+* Skills Section
+* Development Journey Timeline
+* Contact Form Integration
+* GitHub & LinkedIn Integration
+* Modern UI Design
+
+## 🛠️ Technologies Used
+
+### Frontend
+
+* React.js
+* Vite
+* JavaScript (ES6+)
+* Tailwind CSS
+* Framer Motion
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+
+## 📂 Featured Projects
+
+### Cartify – AI Automated E-commerce Platform
+
+AI-powered e-commerce platform with modern architecture and intelligent automation features.
+
+### VUCEMS – Virtual University Event Management System
+
+A centralized platform for managing university events, registrations, and scheduling.
+
+### Top Styled Picks
+
+Modern React + Vite fashion frontend showcasing responsive design and reusable components.
+
+### Game-Zone
+
+Interactive gaming website developed using HTML, CSS, and JavaScript.
+
+## 🚀 Getting Started
+
+### Clone Repository
+
+```bash
+git clone https://github.com/samarkhan56/portfolio.git
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Start Development Server
+
+```bash
+npm run dev
+```
+
+### Build for Production
+
+```bash
+npm run build
+```
+
+## 📬 Contact
+
+**Samar Safdar Khan**
+
+📍 Attock, Punjab, Pakistan
+
+📧 [khanskybolt@gmail.com](mailto:khanskybolt@gmail.com)
+
+🔗 LinkedIn: https://www.linkedin.com/in/samar-khan-sk56
+
+💻 GitHub: https://github.com/samarkhan56
+
+## 🎯 Future Improvements
+
+* Blog Section
+* Project Case Studies
+* Multi-language Support
+* Advanced Animations
+* CMS Integration
+
+---
+
+Built with ❤️ using React & Vite.
