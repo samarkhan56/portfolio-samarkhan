@@ -62,7 +62,7 @@ Interactive gaming website developed using HTML, CSS, and JavaScript.
 ### Clone Repository
 
 ```bash
-git clone https://github.com/samarkhan56/portfolio.git
+git clone https://github.com/samarkhan56/portfolio-samarkhan.git.git
 ```
 
 ### Install Dependencies

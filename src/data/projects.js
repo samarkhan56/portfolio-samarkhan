@@ -15,7 +15,7 @@ const projects = [
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
     description: "Personal portfolio built with smooth sections and responsive layouts.",
     tech: ["React", "Vite", "Tailwind CSS"],
-    github: "https://github.com/samarkhan56/portfolio.git",
+    github: "https://github.com/samarkhan56/portfolio-samarkhan.git.git",
   },
   {
     id: 3,
