@@ -23,11 +23,11 @@ function Hero() {
 
                         <TypeAnimation
                             sequence={[
-                                "Frontend Developer",
+                                "Full Stack Developer",
+                                1500,
+                                "Vibe Coder",
                                 1500,
                                 "UI/UX Designer",
-                                1500,
-                                "Creative Problem Solver",
                                 1500,
                             ]}
                             wrapper="span"
